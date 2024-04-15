@@ -1,6 +1,6 @@
 # Changes to new branch 'feature-branch'
 def main():
-    print('Hello, world!')
+    print('Hello, word!')
     
     
 # Changes to new branch 'feature-branch'
