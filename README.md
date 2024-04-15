@@ -25,11 +25,11 @@ Alternatively create the .gitignore file within you file explorer of choice or t
 
 ## Initialize the github repository
 
-1. Navigate to [github.com](https://github.com/Cyprus-Marine-and-Maritime-Institute)
+1. Navigate to [github.com](https://github.com/MDigiC)
 2. Go to Repositories
 3. Click on New repository (Upper right corner)
 4. Name the repository and choose if the repository will be public or private (Always choose private except if instructed otherwise)
-5. Make sure the Owner is Cyprus-Marine-and-Maritime-Institute
+5. Make sure the Owner is MDigiC
 6. Create the repository (Scroll down and click (Create repository) )
 
 ## Back in your codebase
