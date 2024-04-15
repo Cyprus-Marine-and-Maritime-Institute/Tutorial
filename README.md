@@ -1,6 +1,16 @@
 
 # Git Github Tutorial
 
+## Clone a repository
+```bash 
+git clone <repository url>
+```
+
+## Pull from repository
+```bash 
+git pull
+```
+
 ## Initialize the git repository
 ```bash
 git init
