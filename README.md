@@ -32,7 +32,7 @@ git add ./ #if you decide to run this make sure your .gitignore is setup correct
 git add <your_files.py> # add one by one files or folders
 git commit -m "<your commit message>"
 git branch -M main # switch to the main branch
-git remote add origin https://github.com/Cyprus-Marine-and-Maritime-Institute/test2.git # add the local branch to the remote branch
+git remote add origin <remote branch url> # create the remote branch
 git push -u origin main #sync the local branch to the remote branch
 ```
 
