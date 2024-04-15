@@ -2,7 +2,6 @@
 def main():
     print('Hello, word!')
     print('yes')
-    print('Hello, word!') 
     print("no")
     
     
